@@ -1,4 +1,4 @@
-<strong> <em><q cite="General Obi-Wan Kenobi">Hello there</q></em> <strong> - Obi-Wan Kenobi
+<strong> <em><q cite="General Obi-Wan Kenobi">Hello there</q></em> </strong> - Obi-Wan Kenobi
 
 <!--
 **Moop204/Moop204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
