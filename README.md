@@ -51,5 +51,5 @@
 <img src="https://storage.googleapis.com/discordstreet/emojis/a36fc0b0-2162-4a25-b50e-1bd237cd024c.gif" width=30> Fun facts
 </a> 
 
-* In World War II the german ship SMS Cap Trafalgar disguised itself as the RMS Carmania to sink merchant vessels and its first target turned out to be the Carmania which sunk it.  
+* In World War I the german ship SMS Cap Trafalgar disguised itself as the RMS Carmania to sink merchant vessels and its first target turned out to be the Carmania which sunk it.  
 * You can reset/change the password of any linux machine you can physically access
