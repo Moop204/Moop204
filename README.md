@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Software engineer in training. 
+
+Been going <b>AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH</b> since 2017. 
+
+🔭 I’m currently working on 
+* A list of usable HTML tags 
+
+🌱 I’m currently learning
+* Computer vision
+* Neural networks
+* Compression
+
+🤔 I’m looking for help with
+* Life 
+
+⚡ Fun fact:
+* In World War II the german ship SMS Cap Trafalgar disguised itself as the RMS Carmania to sink merchant vessels and its first target turned out to be the Carmania which sunk it.  
