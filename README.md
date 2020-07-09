@@ -1,11 +1,13 @@
 <hr>
 # Inspirational Quotes
+
 <strong> <em><q cite="General Obi-Wan Kenobi">Hello there</q></em> </strong> - Obi-Wan Kenobi
 
 <!--
 **Moop204/Moop204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <hr>
+
 | Programming Languages | First Learned | Last Used | Feelings |
 | :-: | :--: | :--: | :-- |
 | C | 2017 | 2019 | Like it as much as I hate it |
