@@ -1,9 +1,11 @@
+<hr>
+# Inspirational Quotes
 <strong> <em><q cite="General Obi-Wan Kenobi">Hello there</q></em> </strong> - Obi-Wan Kenobi
 
 <!--
 **Moop204/Moop204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+<hr>
 | Programming Languages | First Learned | Last Used | Feelings |
 | :-: | :--: | :--: | :-- |
 | C | 2017 | 2019 | Like it as much as I hate it |
@@ -26,7 +28,7 @@
     .
 </details>
 -->
-
+<hr>
 <a href="https://github.com/Moop204/Moop204/">
 <img src="https://storage.googleapis.com/discordstreet/emojis/CatDance.gif" width=30> I’m currently working on
 </a> 
@@ -35,7 +37,7 @@
 <br>
 <a href="https://github.com/Moop204/Moop204/">
 <img src="https://storage.googleapis.com/discordstreet/emojis/blobwat.png" width=30> I’m currently learning
-</a> 
+</a>
 
 * Computer vision
 * Neural networks
