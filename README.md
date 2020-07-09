@@ -21,6 +21,11 @@ Here are some ideas to get you started:
     Something small enough to escape casual notice.
 </details>
 
+<div style="display: inline-block;position:relative;">
+    <h1 style="position:relative;z-index:2;top:0px;">Variable length text</h1>
+    <img src="http://img585.imageshack.us/img585/3989/m744.png" style="position:absolute;top:0px;left:0px;width:100%;height:68px;z-index:1" />
+</div>
+
 🔭 I’m currently working on 
 * A list of usable HTML tags 
 
