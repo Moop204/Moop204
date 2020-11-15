@@ -1,14 +1,5 @@
 <hr>
 
-# Inspirational Quotes
-
-<strong> <em><q cite="General Obi-Wan Kenobi">Hello ⁢‍⁢‌‍‌⁢‍⁤‍‌⁤⁡⁢⁤‍‌⁢⁢⁢‌‌⁤⁡‌⁡‌‌‌⁡⁢⁢⁣‌‍⁡⁢⁢‍⁡⁢‌‌⁢‌⁡‍⁡‌⁡⁢‌‌⁣‍⁢⁢⁡⁢⁢‌⁢‌⁡‍⁡‌⁡‌⁡⁢‍⁡‌⁤⁤⁡⁢‍⁡⁢⁡⁢⁡‌⁡⁢‍⁢⁢‌⁣‍⁡‌‌⁤‍⁢⁡‌‌⁢‌⁣‍⁤⁢⁢⁣⁡‌‍⁢⁡‌⁡⁢⁡‌‍‌‌⁣‌‌⁢⁤⁢‌‌‌⁢‌⁣⁣⁢⁢‍⁢⁢‌⁢‌‍⁢‌‍‌⁢⁣⁡⁢⁡⁢⁡‍⁢⁤‍⁢‌‍⁡⁢‌⁢⁢‌⁡⁢⁢‍⁢‌‍⁢‌‍⁢⁤⁣⁣⁡‌‍⁡⁢⁡‍⁡⁢⁡⁢⁢‌‌⁡‌‍‌⁤⁢⁤⁣⁢‍‌⁡‌‍⁡‍⁢⁡‌⁢‍‌‌‌⁡⁢⁢⁢⁣⁡⁣⁤⁤⁣⁢‍⁡⁢‍⁡⁢‍‌⁤‍⁢‌‍⁤⁡‍⁢⁢‌‌‌‌‌⁢‌⁡⁢⁡⁢‌⁢⁡⁣‍⁡⁢⁡⁣⁢‌‍‌‌‍‌⁤⁢‍⁤‌‍‌‌‍⁡‍⁢⁢⁡‌⁤‌⁢⁤‍‌‍⁢⁢‍⁢⁣‍⁡⁢‍⁢‍⁤‌‍⁢⁡‍⁡‌‌⁡⁢⁤⁢‌⁢‍‌⁢⁡‍⁤‍‌‌‌⁡‌‌⁡‍‌⁡⁢⁣⁢⁡‌⁤⁢‍⁡‍⁡⁣⁡⁣‍‌‌⁢⁢⁣‌‌‌‌⁢‌‍⁢⁡⁢⁡‌⁡⁣‌⁤‌⁡‍⁢‍⁢‌‍⁡⁢‌‌‍⁢⁢⁡⁢⁢‌⁢⁢⁢⁡‍‌‌‌‌⁣⁣‍⁡⁢‌⁢‌⁢‌‍⁡‌⁤⁢⁢⁢‌‌⁢‍⁡⁣⁢‍⁡⁢⁡⁢⁡‍⁡⁢⁡⁢‌‌⁣‍‌⁢‍‌⁡‌‌‌⁢⁡‍‌‍⁡‍‌⁣⁡⁢⁢‌⁡⁢⁡‌‍⁢‌⁢⁤‌‌⁣‍⁢‍⁤‍⁢⁡⁣⁤⁢⁡‍⁡‌⁡⁢‌‌⁢‌⁡‌⁡⁢⁢⁣‌⁢‍⁢⁡‌‍‌⁣‍‌‍⁡‍⁢⁤⁢⁢‌‍⁢⁢‍‌⁡‌⁣‌⁤⁡‍⁡‍⁢⁡‌‌⁤⁡‌⁢⁡‍‌‍⁤⁢‌⁢‌⁡‍⁢‍⁢⁡‌⁡‍⁤‍⁡‌⁡‍⁡‍⁡‌‌⁢⁢‌⁢‌⁢⁡⁢⁣‌⁢⁣⁡‌⁢⁣‌⁢⁢‍⁡‍⁢⁢⁣⁡‍‌‌⁣⁡⁣⁡‍⁢⁤⁡⁢⁡⁢⁢⁤⁢⁡‍⁡‌⁡‍⁢‌⁡‍⁡‌‍‌‌⁡‌‌⁡⁢⁣⁣⁢there</q></em> </strong> - Obi-Wan Kenobi
-
-<!--
-**Moop204/Moop204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<hr>
-
 | Programming Languages | First Learned | Last Used | Feelings |
 | :-: | :--: | :--: | :-- |
 | C | 2017 | 2019 | Like it as much as I hate it |
@@ -46,15 +37,3 @@
 * Neural networks
 * Compression
 <br>
-<a href="https://github.com/Moop204/Moop204/">
-<img src="https://storage.googleapis.com/discordstreet/emojis/cc5206c6-6141-4089-9b97-0e5324f6a5d5.gif" width=30> I’m looking for help with
-</a> 
-
-* Life 
-<br>
-<a href="https://github.com/Moop204/Moop204/">
-<img src="https://storage.googleapis.com/discordstreet/emojis/a36fc0b0-2162-4a25-b50e-1bd237cd024c.gif" width=30> Fun facts
-</a> 
-
-* In World War I the german ship SMS Cap Trafalgar disguised itself as the RMS Carmania to sink merchant vessels and its first target turned out to be the Carmania which sunk it.  
-* You can reset/change the password of any linux machine you can physically access
